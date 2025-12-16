@@ -1,0 +1,18 @@
+# ModelSmith Configuration
+# All paths are relative to user home directory
+
+data_dir: ~/ModelSmith/data
+database_path: ~/ModelSmith/modelsmith.db
+theme: dark
+auto_save: true
+
+# Default export formats
+export:
+  annotations: json  # json or csv
+  reports: html
+
+# UI Settings
+ui:
+  window_width: 1400
+  window_height: 900
+  sidebar_width: 250

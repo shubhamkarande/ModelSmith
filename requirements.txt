@@ -1,0 +1,25 @@
+# ModelSmith - AI Dataset & Model Management Tool
+# Python 3.11+
+
+# UI Framework
+PyQt6>=6.6.0
+
+# Data Processing
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Machine Learning Metrics
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.8.0
+pyqtgraph>=0.13.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Configuration
+PyYAML>=6.0.0
+
+# Packaging
+pyinstaller>=6.0.0
