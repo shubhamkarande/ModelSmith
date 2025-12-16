@@ -39,7 +39,7 @@ ModelSmith is a desktop AI dataset and experiment management tool built with Pyt
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/modelsmith.git
+git clone https://github.com/shubhamkarande/modelsmith.git
 cd modelsmith
 
 # Create virtual environment
